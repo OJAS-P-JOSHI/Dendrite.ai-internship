@@ -1,0 +1,7 @@
+Flask 
+Flask-GraphQL 
+graphene 
+graphene-sqlalchemy 
+SQLAlchemy 
+keycloak 
+stripe 
